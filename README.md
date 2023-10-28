@@ -10,7 +10,7 @@
 <div align="center">
 > **If the video has an error, reload the page!**<br>
   
-> Access the online project here **[AQUI](https://luckxsz.github.io/GuessTheWord-23/)**
+> Access the online project here **[AQUI](https://luckxsz.github.io/SimonGame-24/)**
 
 
 ## Technologies Used
